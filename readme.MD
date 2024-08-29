@@ -20,7 +20,7 @@ This repository contains a Python script that controls a LIFX bulb by capturing 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/lukegasbarro/LIFX-Screen_Colour-Controller.git
-   cd lifx-bulb-colour-control
+   cd LIFX-Screen_Colour-Controller
 
 2. **Install the required Python libraries**:
     ```bash

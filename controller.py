@@ -2,13 +2,15 @@
 # and sets the color of the LIFX bulb to the average colour displayed on the screen.
 # By Luke Gasbarro.
 
+# Note: Press Ctrl+C to exit the program when running in the terminal.
+
 import requests
 import time
 import screenCaptureTopThird
 import screenCapture
 
 # LIFX API token - Obain from https://cloud.lifx.com/settings
-token = "Your LIFX API Token here"
+token = "YOUR_LIFX_API"
 
 headers = {
     "Authorization": "Bearer %s" % token,

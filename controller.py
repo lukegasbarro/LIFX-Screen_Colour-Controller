@@ -22,6 +22,7 @@ BRIGHTNESS = 0.25
 DURATION = 2        # Duration of the transition in seconds. Works best with 2 seconds where a request is made every 2 seconds.
 
 if __name__ == '__main__':
+    print("Program started. Press Ctrl+C to exit.")
     try:
         while True:
             # Wait 2 seconds - This limits the rate of requests to the LIFX API. 

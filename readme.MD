@@ -58,4 +58,6 @@ Note: The following variables can be modified in the controller.py script
 
 - Transition Duration: Modify the DURATION variable to change the duration of the color transition.
 
-Luke Gasbarro
+## Credits
+
+- Luke Gasbarro

@@ -22,7 +22,7 @@ def get_rgb():
 
     avg_rgb = get_top_third_rgb()
     R, G, B = avg_rgb
-    #print(f"Average Top Third Screen RGB: {avg_rgb}")
+    print(f"Average Top Third Screen RGB: {avg_rgb}")
 
     return R, G, B
 

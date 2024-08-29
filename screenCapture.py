@@ -18,7 +18,7 @@ def get_rgb():
 
     avg_rgb = get_screen_rgb()
     R, G, B = avg_rgb
-    #print(f"Average Screen RGB: {avg_rgb}")
+    print(f"Average Screen RGB: {avg_rgb}")
 
     return R, G, B
 

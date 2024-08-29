@@ -1,10 +1,10 @@
-# LIFX Bulb Screen Color Control
+# LIFX Bulb Screen Colour Control
 
-This repository contains a Python script that controls a LIFX bulb by capturing the screen contents and setting the color of the bulb to the average color displayed on the screen. The script can be configured to capture the entire screen or just the top third of the screen for the average color calculation. 
+This repository contains a Python script that controls a LIFX bulb by capturing the screen contents and setting the colour of the bulb to the average colour displayed on the screen. The script can be configured to capture the entire screen or just the top third of the screen for the average colour calculation. 
 
 ## Features
 
-- **Screen Color Synchronization**: The LIFX bulb color is updated based on the average color of the screen.
+- **Screen Colour Synchronization**: The LIFX bulb colour is updated based on the average colour of the screen.
 - **Flexible Screen Capture**: Option to capture the entire screen or just the top third.
 - **Adjustable LED Settings**: Configure brightness and transition duration to suit your preferences.
 
@@ -19,8 +19,8 @@ This repository contains a Python script that controls a LIFX bulb by capturing 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/lifx-bulb-color-control.git
-   cd lifx-bulb-color-control
+   git clone https://github.com/lukegasbarro/LIFX-Screen_Colour-Controller.git
+   cd lifx-bulb-colour-control
 
 2. **Install the required Python libraries**:
     ```bash
@@ -56,7 +56,7 @@ Note: The following variables can be modified in the controller.py script
 
 - Brightness: Adjust the BRIGHTNESS variable in the script to set the brightness level of the LIFX bulb.
 
-- Transition Duration: Modify the DURATION variable to change the duration of the color transition.
+- Transition Duration: Modify the DURATION variable to change the duration of the colour transition.
 
 ## Credits
 
